@@ -1,0 +1,20 @@
+{
+  "services": [
+    {
+      "name": "web1",
+	  "Address": "127.0.0.1",
+      "tags": [
+        "1stservise"
+      ],
+      "port": 8081
+    },
+    {
+      "name": "web2",
+	  "Address": "127.0.0.1",
+      "tags": [
+        "2ndservise"
+      ],
+      "port": 8082
+    }
+  ]
+}
